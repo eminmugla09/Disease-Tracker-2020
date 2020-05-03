@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_join"
+        android:title="Join an Quarantine Zone" />
+    <item android:id="@+id/action_create"
+        android:title="Create an Quarantine Zone"/>
+    <item android:id="@+id/action_invite"
+        android:title="Patient Invitation Link"/>
+    <item android:id="@+id/action_left"
+        android:title="Left Quarantine Zone"/>
+    <item android:id="@+id/action_logout"
+        android:title="Logout"/>
+
+</menu>
